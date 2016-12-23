@@ -1,0 +1,5 @@
+print(2,type(2))
+print(2.2,type(2.2))
+print(0.1,type(0.1))
+print(3e+2,type(3e+2))
+print(2.13453223e+12,type(2.13453223e+12))
